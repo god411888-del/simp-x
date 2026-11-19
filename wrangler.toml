@@ -1,0 +1,7 @@
+name = "simpx-sensi"
+compatibility_date = "2026-11-19"
+pages_build_output_dir = "."
+
+# Create a Cloudflare D1 database, then add a Pages binding named DB
+# in Workers & Pages > your Pages project > Settings > Functions.
+# Do not put passwords or secret values in this file.
